@@ -1,4 +1,4 @@
-//connect mpr121 to arduini
+//connect mpr121 to arduino
 #include <MPR121.h>
 #include <Wire.h>
 
